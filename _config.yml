@@ -1,5 +1,4 @@
-favicon: null
-name: njeri
+layout_spectrum: 0.9623656
 opengraph:
   image: null
   type: null
@@ -10,26 +9,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.7275985
-  brandStrength: 0.6060297028161585
+  brandStrength: 0.2956989
   lightness: 0.4569893
   brandColors:
-    - '#F49022'
-    - '#000000'
-    - '#0A73B8'
-    - '#FFFFFF'
-    - '#7A4811'
+    - '#0F060A'
+    - '#E8CEA5'
+    - '#FBF2D6'
+    - '#BD6541'
+    - '#9A805C'
   rhythmicContrast: 0.7903226
 typography_spectrum: 0.1003584
-layout_spectrum: 0.9623656
 cta:
   bucket: null
   version: null
@@ -38,3 +36,5 @@ analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Njeri Rionge News Feed

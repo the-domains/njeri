@@ -11,8 +11,8 @@ description: 'Njeri Rionge has co-founded several multi-million dollar companies
 app_links: []
 isBasedOnUrl: 'http://www.forbes.com/sites/mfonobongnsehe/2011/08/03/africas-most-successful-women-njeri-rionge/#5b9de3352433'
 title: "Africa's Most Successful Women: Njeri Rionge"
-datePublished: '2016-02-25T02:19:25.822Z'
-dateModified: '2016-02-24T21:10:11.094Z'
+datePublished: '2016-02-25T03:33:52.068Z'
+dateModified: '2016-02-24T21:10:03.788Z'
 sourcePath: _posts/2016-02-25-africas-most-successful-women-njeri-rionge.md
 published: true
 inFeed: true

@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[njeri]]></title>
-        <description><![CDATA[njeri]]></description>
+        <title><![CDATA[Njeri Rionge News Feed]]></title>
+        <description><![CDATA[Njeri Rionge News Feed]]></description>
         <link>https://thegrid.ai/njeri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 02:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 03:34:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/njeri/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wananchi Group]]></title>
+            <description><![CDATA[<article><h1>Wananchi Group</h1><p>Wananchi Group's home entertainment brand Zuku has upgraded its entire cable network infrastructure to enable faster speeds, accommodate more traffic and improve the quality of customer experience. The upgrade allows faster two-way high-speed broadband content mainly video, voice and data to be delivered to the home using a combination of fibre and coaxial cable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61d1aff373e88895648b96db044db13ff2ef3a51.png"></article>]]></description>
+            <link>http://wananchi.com/</link>
+            <guid isPermaLink="false">e023192d-4e29-40f0-92da-222fb5641b73</guid>
+            <pubDate>Thu, 25 Feb 2016 03:33:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Herstory: Njeri Rionge, The Serial Entrepreneur]]></title>
             <description><![CDATA[<article><h1>Herstory: Njeri Rionge, The Serial Entrepreneur</h1><p>Behind Africa's original mass market internet service provider is female entrepreneur Njeri Rionge. Popularly known in the business and entrepreneurship world as "the serial entrepreneur", this mother of a young daughter has demonstrated a full capacity to take any start-up and turn it into a success.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e64ef183cb610677351c60c0a3f5794d7196487.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>FOUNDER OF ZUKU INTERNET & TV, NJOKI RIONGE GIVES WORDS OF ADVISE TO ASPIRIING ENTERPRENUERS - hekaheka.com</h1><p>mashshare] Njeri Rionge is one of Kenya's most successful entrepreneurs. She started business in her 20s when she was selling yoghurt , doing hairdressing besides importing goods from abroad for sale. Ms Rionge is credited with turning Wananchi Group which holds, Zuku T.V &</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9b394fa8caa7f49203c62c69ff9a54bfe4b5a47.jpg"></article>]]></description>
             <link>http://www.hekaheka.com/founder-zuku-internet-tv-njoki-rionge-gives-words-advise-aspiriing-enterprenuers/</link>
             <guid isPermaLink="false">eba83483-a89d-4c98-aa7d-d16c7d5354bd</guid>
-            <pubDate>Thu, 25 Feb 2016 02:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BBC NEWS | Voices from Iraq]]></title>
-            <description><![CDATA[<article><h1>BBC NEWS | Voices from Iraq</h1><p>BBC News Online speaks to six Kenyans about their hopes for the future and what the Moi era meant to them, as the country holds historic elections. Njeri Rionge is a 36-year-old internet entrepreneur from the capital, Nairobi. She is a single mother with a 19-month-old daughter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65ef61b486ecb7ecfba897775b66c79d2f6e37d1.jpg"></article>]]></description>
-            <link>http://news.bbc.co.uk/1/shared/spl/hi/world/02/voices_from_kenya/html/rionge.stm</link>
-            <guid isPermaLink="false">f4c15cc8-accc-4cf9-bae5-e90763dce8fa</guid>
             <pubDate>Thu, 25 Feb 2016 02:19:25 GMT</pubDate>
         </item>
     </channel>

@@ -1,28 +1,40 @@
-name: njeri
 favicon: null
-layout_spectrum: 0.03205030970275402
-typography_spectrum: 0.5848867611493915
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: njeri
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6060297028161585
-  lightness: 0.9312099711969495
-  saturation: 0.9522129939869046
-  rhythmicContrast: 0.9833361722994596
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.7275985
+  brandStrength: 0.6060297028161585
+  lightness: 0.4569893
+  brandColors:
+    - '#F49022'
+    - '#000000'
+    - '#0A73B8'
+    - '#FFFFFF'
+    - '#7A4811'
+  rhythmicContrast: 0.7903226
+typography_spectrum: 0.1003584
+layout_spectrum: 0.9623656
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null

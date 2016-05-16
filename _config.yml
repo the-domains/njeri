@@ -1,5 +1,4 @@
-favicon: null
-name: Njeri Rionge News Feed
+layout_spectrum: 0.3423271
 opengraph:
   image: null
   type: null
@@ -18,23 +17,24 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.8490725
+  saturation: 0.7531915
   brandStrength: 0.8785835
-  lightness: 0.8903878
+  lightness: 0.5553191
   brandColors:
     - '#F8E69C'
     - '#E8A24D'
     - '#0F0909'
     - '#C36041'
     - '#582E1C'
-  rhythmicContrast: 0.6121417
+  rhythmicContrast: 0.5829787
 typography_spectrum: 0.1003584
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.3423271
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Njeri Rionge News Feed
